@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://soldnertremel.github.io/jepor9877/sitemap.xml
